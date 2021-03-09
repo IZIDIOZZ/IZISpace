@@ -1,7 +1,14 @@
+//colors Variables
+@import "./_IZIColors";
+
+//Components
 @import "./_IZICarousel";
 
-@import "./IZIColors";
+//Control responsivity
+@import "./_IZIResponsivity";
+
 body{
     margin: 0;
     padding: 0;
+    box-sizing: border-box;
 }
